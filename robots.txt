@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://treasures-of-aztec.moscow/sitemap.xml
